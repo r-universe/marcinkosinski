@@ -1,0 +1,14 @@
+[
+  {
+    "package": "archivist.github",
+    "oncran": true
+  },
+  {
+    "package": "coxphSGD",
+    "oncran": true
+  },
+  {
+    "package": "RZabbix",
+    "oncran": true
+  }
+]
