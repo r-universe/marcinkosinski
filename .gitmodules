@@ -8,13 +8,13 @@
 	url = https://github.com/marcinkosinski/archivist.github
 	shallow = true
 	registered = true
-[submodule "RZabbix"]
-	path = RZabbix
-	url = https://github.com/marcinkosinski/rzabbix
-	shallow = true
-	registered = true
 [submodule "coxphSGD"]
 	path = coxphSGD
 	url = https://github.com/marcinkosinski/coxphsgd
+	shallow = true
+	registered = true
+[submodule "RZabbix"]
+	path = RZabbix
+	url = https://github.com/marcinkosinski/rzabbix
 	shallow = true
 	registered = true

@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "RZabbix",
+    "package": "coxphSGD",
     "oncran": true
   },
   {
-    "package": "coxphSGD",
+    "package": "RZabbix",
     "oncran": true
   }
 ]
